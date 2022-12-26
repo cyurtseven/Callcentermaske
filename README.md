@@ -12,9 +12,12 @@ Create a database on SQL Server with name: ASPState.
 
 Run the SQL Script ASPState.sql.
 
+Browse your Domain.
+
 Login to your Dialer with:
 
 Username: admin
+
 Password: 12345678
 
 Change the password in production use.
