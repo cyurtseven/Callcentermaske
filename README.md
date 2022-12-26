@@ -12,7 +12,7 @@ Create a database on SQL Server with name: ASPState.
 
 Run the SQL Script ASPState.sql.
 
-You may need to enter your SQL Server Password in the file web.config if your server does not accept Trusted_Connection.
+You may need to enter your SQL Server Password in the file web.config if your server does not use Trusted_Connection.
 
 Browse your Domain.
 
