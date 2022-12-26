@@ -12,6 +12,8 @@ Create a database on SQL Server with name: ASPState.
 
 Run the SQL Script ASPState.sql.
 
+You may need to enter your SQL Server Password in the file web.config if your server does not accept Trusted_Connection.
+
 Browse your Domain.
 
 Login to your Dialer with:
@@ -23,6 +25,6 @@ Password: 12345678
 Change the password in production use.
 
 For support please contact: cyurtseven@yahoo.com
-Or call: +905324599698
+or call: +905324599698
 
 Cenk Yurtseven
