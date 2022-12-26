@@ -1,2 +1,0 @@
-# Callcentermaske
-Callcenter Power Diialer
