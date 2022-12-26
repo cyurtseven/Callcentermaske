@@ -1,7 +1,7 @@
 # Callcentermaske
 Callcenter Power Dialer
 
-Extract the Callcentermaske.rar file and upload it to your Domain.
+Extract the Callcentermaske.rar file and upload all files to your Domain Root.
 
 Create a database on SQL Server with name: CallcentermaskeLotto.
 
