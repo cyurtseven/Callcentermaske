@@ -1,2 +1,2 @@
 # Callcentermaske
-Callcenter Power Diialer
+Callcenter Power Dialer
