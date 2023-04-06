@@ -28,6 +28,9 @@ View Online Demo at: http://lottodemo.callcentermaske.com/
 
 Instruction video at: https://www.youtube.com/watch?v=w0t9P3ixjRk (German language)
 
+You can dowload the newest release at:
+http://callcentermaske.com/callcentermaske.rar
+
 For support please contact: cyurtseven@yahoo.com
 or call: +905324599698
 
